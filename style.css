@@ -1,0 +1,347 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+font-family: 'Pacifico', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+}
+.slide-bg-1 {background-image:url(assets/img/trip/nilachal.jpg)}
+.main-menu{
+    background:#12b7ec;
+    color:#ffff;
+}
+.single-slide-item{
+    background-size: cover;
+    background-position: center;
+    background-color: #ddd;
+    height: 590px;
+}
+.text-area {
+    margin-left: 345px;
+    margin-top: 200px;
+}
+.text-area p{
+    color: #ffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;.
+    text-align: center
+}
+.explore-btn a{
+    background-color: #12b7ec;
+    text-align: center;
+    color: #ffff;
+}
+.explore-btn {
+    font-size: 31px;
+    margin-left: 105px;
+}
+.trevelo-button {
+    border-radius: 15px;
+    padding: 5px 20px;
+}
+.logo-area {
+    margin-top: 5px;
+}
+
+.text-area h3{
+    font-family: 'Pacifico', cursive;
+    color: #ffff;
+    font-size: 150px;
+    text-align:center;
+}
+.main-menu .logo-area{
+    padding-top: 10px;
+}
+
+.main-menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+.navigation a {
+    color: #ffff;
+}
+
+.main-menu li{
+    position: relative;
+    display: inline-block;
+    margin: 23px;
+}
+.mainmenu ul li:hover{
+    color: #f80808;
+    font-size: 20px;
+    transition: 0.35s;
+}
+.main-menu.logo-area {
+    margin-top: 7px;
+}
+.main-menu .fab {
+    margin: 5px;
+    color: #fff;
+}
+.main-menu .social-media {
+    margin-top: 23px;
+}
+.destination-area {
+    background-color: #272c30;
+    padding: 40px;
+}
+.destination-area h2{
+    color: #ffff;
+}
+
+.where {
+    border-radius: 14px;
+    background: transparent;
+    text-align: center;
+    border: 1px solid #363E52;
+    width: 100%;
+    height: 50px;
+    color: #fff;
+}
+.date{
+     border-radius: 14px;
+    background: transparent;
+    text-align: center;
+    border: 1px solid #363E52;
+    width: 100%;
+    height: 50px;
+    color: #fff;
+}
+.search-button {
+    background: #12b7ec;
+    font-size: 28px;
+    color: #fff;
+    padding: 7px 34px;
+    border-radius: 11px;
+}
+.col-md-3.wehere-text {
+    margin-top: 20px;
+}
+.col-md-3.input_1 {
+    margin-top: 29px;
+}
+.col-md-3.input_2 {
+    margin-top: 29px;
+}
+.col-md-3.search_btn {
+    margin-top: 29px;
+}
+.section_title.text-center.mb_70 {
+    margin-top: 49px;
+}
+.section_title text-center mb_70 p{
+    margin-bottom: 32px;
+}
+.content {
+    z-index: 7;
+    position: absolute;
+    left: 30px;
+    bottom: 20px;
+    background: ;
+    color: #fff;
+    padding: 2px 33px;
+    padding-top: 2px;
+    text-align: center;
+    padding-top: 11px;
+    border-radius: 27px;
+}
+.content p{
+    font-size: 25px;
+    margin-right: 11px;
+}
+.content p a{
+    display: inline-block;
+    background: #1EC6B6;
+    font-size: 12px;
+    border-radius: 30px;
+    font-weight: 400;
+    padding: 0px 12px;
+    height: 25px;
+    line-height: 25px;
+    color: #fff;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+
+.content a:hover {
+  background-color: #f33210;
+}
+.content p:hover{
+    color:#f33210;     
+}
+.row.row_two {
+    margin-top: 40px;
+}
+.fa{
+    color: yellow;
+}
+.cost{
+    position: absolute;
+    background: #1EC6B6;
+    padding: 7px 18px 4px 18px;
+    display: inline-block;
+    top: 20px;
+    left: 20px;
+    border-radius: 18px;
+    color: #fff;
+    font-size: 16px;
+    transition: 0.3s;
+}
+.place-fullname{
+    font-size: 18px;
+    font-weight: 400;
+    color: #7A838B;
+    margin-top: 2px;
+    margin-bottom: 7px;
+}
+.place-name{
+    color: #7A838B;
+    font-size: 25px;
+}
+
+.fa.fa-clock {
+    margin-left: 92px;
+}
+.row.second-row-popular-places {
+    margin-top: 20px;
+}
+.see-more-button {
+    margin-left: 600px;
+    text-align: center;
+    background: #f33210;
+    padding: 13px 40px;
+    color: #fff;
+    border-radius: 13px;
+}
+.see_more_btn_area {
+    margin-top: 41px;
+    margin-right: 131px;
+}
+.video_area.video_bg {
+    margin-top: 40px;
+}
+.service-providing-area {
+    margin-top: 63px;
+}
+.service-icon {
+    margin-left: 129px;
+}
+.service-content p {
+    margin-left: 121px;
+    margin-top: 10px;
+}
+.service-icon.first-icon {
+    margin-left: 161px;
+}
+.service-title-text{
+    font-size: 20px;
+}
+.popular-places-title {
+    text-align: center;
+    margin-left: 124px;
+    margin-top: 48px;
+    margin-bottom: 27px;
+}
+
+
+.carousel-caption.d-none.d-md-block {
+    font-size: 27px;
+    margin-bottom: 169px;
+}
+.carousel-caption.d-none.d-md-block h2{
+    font-size: 90px;
+    font-family:'Pacifico', cursive; 
+}
+
+.testimonial-area {
+    background: #f0f3f4;
+}
+.testimonial-content.single-content {
+    text-align: center;
+}
+.testimonial-thumb {
+    margin-left: 500px;
+    padding-top: 34px;
+    padding-bottom: 20px;
+}
+.Heading-text {
+    text-align: center;
+    margin-left: -165px;
+    margin-top: -57px;
+}
+.Heading-text {
+    margin-bottom: 60px;
+}
+.disc-title-area {
+    margin-left: 96px;
+    font-size: 63px;
+    margin-bottom: 30px;
+}
+.recent-trip-content {
+    background: #5dade2;
+    padding: 13px 135px;
+    border-radius: 35px;
+    box-sizing: border-box;
+    margin-top: 19px;
+    color: #fff;
+}
+.recent-trip-area {
+    margin-top: 54px;
+}
+.recent-trip-thumb {
+    margin-bottom: 29px;
+}
+.fa.trip-star{
+    font-size: 14px;
+}
+.testimonial-author {
+    margin-bottom: 52px;
+}
+.footer {
+    background: #34495e;
+    color: #fff;
+    margin-top: 34px;
+}
+.footer .footer_top .footer_widget ul li{
+    color:  #ecf0f1 ;
+    font-size: 14px;
+    line-height: 36px;
+}
+.footer .socail_links ul li {
+    display: inline-block;
+}
+li {
+    list-style: none;
+}
+.socail_links {
+    margin-left: -50px;
+}
+.footer-icon{
+    color:  #ecf0f1 ;
+    margin: 10px 19px;
+    margin-left: 8px;   
+}
+.footer-icon:hover{
+    color:  #e74c3c ;
+    font-size: 30px;
+    transition: 0.3s;
+}
+.links.double_links {
+    margin-top: 30px;
+}
+.links {
+    margin-top: 30px;
+}
+.footer_logo {
+    margin-bottom: 30px;
+    margin-top: 29px;
+}
+.footer_widget {
+    margin-top: 29px;
+}
+.footer a{
+    color: #ffff;
+}
